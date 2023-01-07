@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Andrii Porozinskiy
+- 👋 Hi, I’m Andrii Porozinskyi
 - HTML/CSS, JS, ReactJS developer
 - Telegram: @J_Christ
